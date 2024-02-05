@@ -21,5 +21,12 @@ git pull
 - git branch -M main
 - git push -u origin main
 
+#### template.py
+
+#### setup.py
+
+#### requirements.txt
+- pip install -r requirements.txt
+
 
 
