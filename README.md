@@ -28,5 +28,10 @@ git pull
 #### requirements.txt
 - pip install -r requirements.txt
 
+#### src/__init__.py  logger
+
+#### utils common.py
+
+####
 
 
