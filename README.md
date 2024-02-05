@@ -13,8 +13,13 @@
 - git remote add origin https://github.com/maheshpachpande/Kidney_Disease.git
 - git push -u origin main
 
+#### create .gitignore(python) file in repository and pull in folder
+git pull
+
 #### push an existing repository from the command line
 - git remote add origin https://github.com/maheshpachpande/Kidney_Disease.git
 - git branch -M main
 - git push -u origin main
+
+
 
