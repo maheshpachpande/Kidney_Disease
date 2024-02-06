@@ -48,6 +48,8 @@ git pull
 #### dvc
 - dvc init
 - dvc repro
+- dvc dag
+
 #### Updating lock file 'dvc.lock'
 
 #### To track the changes with git, run:
